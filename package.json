@@ -1,0 +1,17 @@
+{
+  "name": "udemy-nuxtjs-vuejs-on-steroids-vks-15022020",
+  "version": "1.0.0",
+  "description": "My doozie Nuxt.js project",
+  "author": "vibhash",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
